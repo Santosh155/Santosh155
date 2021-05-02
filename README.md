@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Santosh155
+- 👋 Hi, I’m Santosh currently building REST API using Nodejs.
 - 👀 I’m interested in Web App develoment(I use Nodejs and Golang for backend development)
 - 🌱 I’m currently learning Data science and Backend development
 - 💞️ I’m looking to collaborate on Nodejs, Data Science, Go
